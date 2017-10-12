@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kerrigan McCulloch
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this Lesson our goal was to declare, initialize and display variables. We were told to put in expenses and have the right percentages displayed. 
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The parseFloat command is used to turn a String into a Float. 
+2. The toFixed command is used to determine how many decimal spots were displayed.
+3. The getElementById command uses id's to locate the calcuations on the HTML page. 
 
